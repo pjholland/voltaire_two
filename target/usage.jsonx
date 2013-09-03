@@ -1,0 +1,92 @@
+[
+  {
+    "source": "^the user logs out$",
+    "steps": [
+      {
+        "name": "the user logs out",
+        "aggregatedDurations": {
+          "median": 3.095674,
+          "average": 3.095674
+        },
+        "durations": [
+          {
+            "duration": 3.095674,
+            "location": "skrill_login_featues/skrill_login.feature:17"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I click the submit button$",
+    "steps": [
+      {
+        "name": "I click the submit button",
+        "aggregatedDurations": {
+          "median": 3.196876,
+          "average": 3.196876
+        },
+        "durations": [
+          {
+            "duration": 3.196876,
+            "location": "skrill_login_featues/skrill_login.feature:15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I log in as as a \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "I log in as as a \"referral user\"",
+        "aggregatedDurations": {
+          "median": 3.009932,
+          "average": 3.009932
+        },
+        "durations": [
+          {
+            "duration": 3.009932,
+            "location": "skrill_login_featues/skrill_login.feature:14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I should see the Account Overview page$",
+    "steps": [
+      {
+        "name": "I should see the Account Overview page",
+        "aggregatedDurations": {
+          "median": 8.331858,
+          "average": 8.331858
+        },
+        "durations": [
+          {
+            "duration": 8.331858,
+            "location": "skrill_login_featues/skrill_login.feature:16"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I am on the skrill login page$",
+    "steps": [
+      {
+        "name": "I am on the skrill login page",
+        "aggregatedDurations": {
+          "median": 18.508796,
+          "average": 18.508796
+        },
+        "durations": [
+          {
+            "duration": 18.508796,
+            "location": "skrill_login_featues/skrill_login.feature:13"
+          }
+        ]
+      }
+    ]
+  }
+]

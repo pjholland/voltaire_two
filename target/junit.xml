@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" tests="1">
+<testcase classname="as a user i want to log in to the Skrill website" name="I log onto skrill as a referral user" time="36.143136">
+<system-out><![CDATA[Given I am on the skrill login page.....................................................passed
+When I log in as as a "referral user"....................................................passed
+And I click the submit button........................................................passed
+Then I should see the Account Overview page.................................................passed
+And the user logs out............................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
